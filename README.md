@@ -1,6 +1,4 @@
-## This repository is now archived - please see https://github.com/TheRetroChannel/Commodore-64-Shortboard-and-C128-RF-Replacement-V2 for the latest version
-
-# C128/C64 Shortboard-RF-replacement
+## This project has been superseded by the [RFOFF](https://www.tindie.com/products/36736/) and no further updates or support will be provided. You are welcome to build this RF replacement but I would highly recommend the RFOFF which provides a much better output.
 
 ![Board](https://github.com/TheRetroChannel/C128-C64-Shortboard-RF-replacement/blob/main/Images/c64sb%20rf%20full.png)
 
